@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "skulptur-due-i-marmor",
+    "title": "Skulptur – Due i marmor",
+    "category": "Kunst",
+    "price": 3200,
+    "currency": "NOK",
+    "description": "En elegant skulptur av en due i marmor. Perfekt til å pryde stuen.",
+    "image": "/images/placeholder1.png"
+  },
+  {
+    "slug": "halskjede-gullfjaer",
+    "title": "Halskjede – Gullfjær",
+    "category": "Smykker",
+    "price": 1450,
+    "currency": "NOK",
+    "description": "Håndlaget halskjede med gullfjær. Et unikt smykke for enhver anledning.",
+    "image": "/images/placeholder2.png"
+  },
+  {
+    "slug": "lysestake-brostein",
+    "title": "Lysestake – Brostein",
+    "category": "Interiør",
+    "price": 890,
+    "currency": "NOK",
+    "description": "Rustikk lysestake laget av brostein. Skaper en varm atmosfære.",
+    "image": "/images/placeholder3.png"
+  },
+  {
+    "slug": "oljemaleri-frognerkveld",
+    "title": "Oljemaleri – Frognerkveld",
+    "category": "Kunst",
+    "price": 6200,
+    "currency": "NOK",
+    "description": "Originalt oljemaleri som fanger stemningen på Frogner en sommerkveld.",
+    "image": "/images/placeholder1.png"
+  },
+  {
+    "slug": "armband-laer-gullspenne",
+    "title": "Armbånd – Lær med gullspenne",
+    "category": "Smykker",
+    "price": 950,
+    "currency": "NOK",
+    "description": "Armbånd i håndlaget lær med elegant gullspenne.",
+    "image": "/images/placeholder2.png"
+  },
+  {
+    "slug": "keramikkbolle-beige-glasur",
+    "title": "Keramikkbolle – Beige glasur",
+    "category": "Interiør",
+    "price": 560,
+    "currency": "NOK",
+    "description": "Keramikkbolle med beige glasur. Flott til servering eller dekor.",
+    "image": "/images/placeholder3.png"
+  },
+  {
+    "slug": "kunsttrykk-duen",
+    "title": "Kunsttrykk – Duen",
+    "category": "Kunst",
+    "price": 2100,
+    "currency": "NOK",
+    "description": "Nummerert kunsttrykk av en stilisert due.",
+    "image": "/images/placeholder1.png"
+  },
+  {
+    "slug": "ring-sovlinjer",
+    "title": "Ring – Sølvlinjer",
+    "category": "Smykker",
+    "price": 1200,
+    "currency": "NOK",
+    "description": "Elegant ring med enkle sølvlinjer.",
+    "image": "/images/placeholder2.png"
+  },
+  {
+    "slug": "lampe-messingfot-hvit-skjerm",
+    "title": "Lampe – Messingfot med hvit skjerm",
+    "category": "Interiør",
+    "price": 3400,
+    "currency": "NOK",
+    "description": "Klassisk lampe med messingfot og hvit skjerm.",
+    "image": "/images/placeholder3.png"
+  },
+  {
+    "slug": "skulptur-abstrakt-bronse",
+    "title": "Skulptur – Abstrakt bronse",
+    "category": "Kunst",
+    "price": 2800,
+    "currency": "NOK",
+    "description": "Abstrakt skulptur i bronse som gir karakter til ethvert rom.",
+    "image": "/images/placeholder1.png"
+  },
+  {
+    "slug": "oreringer-perle",
+    "title": "Øreringer – Perle",
+    "category": "Smykker",
+    "price": 1350,
+    "currency": "NOK",
+    "description": "Delikate øreringer med perler.",
+    "image": "/images/placeholder2.png"
+  },
+  {
+    "slug": "speil-buet-ramme-sort",
+    "title": "Speil – Buet ramme i sort metall",
+    "category": "Interiør",
+    "price": 4500,
+    "currency": "NOK",
+    "description": "Speil med buet ramme i sort metall. Gir dybde til rommet.",
+    "image": "/images/placeholder3.png"
+  }
+]
